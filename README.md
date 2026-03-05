@@ -12,3 +12,7 @@ Features:
 
 Technologies:
 Python
+
+## Program Output
+
+![Security Log Analyzer Output](output.jpeg)
